@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc2b3a54-3eb1-474d-a6ac-f943eff4c6a1" name="Default" comment="" />
+    <list default="true" id="7968caac-c516-46d7-aa42-2a71ad5cd900" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,21 +12,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="SumOfThreeNumbers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
+      <file leaf-file-name="SumOfManyNumbers.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SumOfManyNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="432">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+              <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SumOfThreeNumbersTest.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/SumOfThreeNumbersTest.java">
+      <file leaf-file-name="SumOfManyNumbersTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/SumOfManyNumbersTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+            <state relative-caret-position="144">
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
               <folding />
             </state>
           </provider>
@@ -42,7 +42,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SumOfThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/src/SumOfManyNumbers.java" />
       </list>
     </option>
   </component>
@@ -66,30 +66,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-026.SumOfManyNumbers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-026.SumOfManyNumbers" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-026.SumOfManyNumbers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-026.SumOfManyNumbers" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-025.SumOfThreeNumbers" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week2-025.SumOfThreeNumbers" type="462c0819:PsiDirectoryNode" />
+              <item name="C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week2-026.SumOfManyNumbers" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week2-026.SumOfManyNumbers" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
   </component>
@@ -105,10 +105,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SumOfThreeNumbersTest">
-    <configuration name="SumOfThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.SumOfManyNumbersTest.test">
+    <configuration name="SumOfManyNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="SumOfThreeNumbers" />
+      <option name="MAIN_CLASS_NAME" value="SumOfManyNumbers" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -117,18 +117,38 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="week2-025.SumOfThreeNumbers" />
+      <module name="week2-026.SumOfManyNumbers" />
       <envs />
     </configuration>
-    <configuration name="SumOfThreeNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SumOfManyNumbersTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <module name="week2-025.SumOfThreeNumbers" />
+      <module name="week2-026.SumOfManyNumbers" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="SumOfThreeNumbersTest" />
+      <option name="MAIN_CLASS_NAME" value="SumOfManyNumbersTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="SumOfManyNumbersTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="week2-026.SumOfManyNumbers" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SumOfManyNumbersTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -220,14 +240,16 @@
       <properties />
       <listeners />
     </configuration>
-    <list size="2">
-      <item index="0" class="java.lang.String" itemvalue="Application.SumOfThreeNumbers" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.SumOfThreeNumbersTest" />
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.SumOfManyNumbers" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.SumOfManyNumbersTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.SumOfManyNumbersTest.test" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.SumOfThreeNumbersTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.SumOfThreeNumbers" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.SumOfManyNumbersTest.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.SumOfManyNumbersTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.SumOfManyNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -241,17 +263,20 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc2b3a54-3eb1-474d-a6ac-f943eff4c6a1" name="Default" comment="" />
-      <created>1539781413866</created>
+      <changelist id="7968caac-c516-46d7-aa42-2a71ad5cd900" name="Default" comment="" />
+      <created>1539806244025</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1539781413866</updated>
+      <updated>1539806244025</updated>
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SumOfThreeNumbersTest - 2018.10.17 at 21h 41m 38s.xml">
-      <configuration name="SumOfThreeNumbersTest" configurationId="JUnit" />
+    <history-entry file="SumOfManyNumbersTest - 2018.10.17 at 22h 10m 49s.xml">
+      <configuration name="SumOfManyNumbersTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SumOfManyNumbersTest_test - 2018.10.17 at 22h 11m 00s.xml">
+      <configuration name="SumOfManyNumbersTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -265,20 +290,20 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TMC Test Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TMC Test Results" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32982087" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2969141" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TMC Project List" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294412" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1559633" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TMC Project List" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39936775" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -291,24 +316,22 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="1" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SumOfThreeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/src/SumOfManyNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/SumOfThreeNumbersTest.java">
+    <entry file="file://$PROJECT_DIR$/test/SumOfManyNumbersTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="36" column="15" lean-forward="true" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+        <state relative-caret-position="144">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
           <folding />
         </state>
       </provider>
