@@ -31,7 +31,8 @@ public class HangmanUserInteface {
             else if (command.isEmpty()) {
                 printMenu();
             }
-
+            hangman.printMan();
+            hangman.printWord();
         }
 
         System.out.println("Thank you for playing!");
