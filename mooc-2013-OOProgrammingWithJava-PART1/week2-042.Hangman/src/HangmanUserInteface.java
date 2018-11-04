@@ -28,6 +28,9 @@ public class HangmanUserInteface {
             else if (command.length() == 1) { // command has 1 letter = it's a guess
              hangman.guess(command);
             }
+            else if (command.isEmpty()) {
+                printMenu();
+            }
 
         }
 
