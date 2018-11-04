@@ -22,7 +22,12 @@ public class HangmanUserInteface {
             if (command.equals("quit")) {
                 break;
             }
-
+            else if (command.equals("status")) {
+                hangman.printStatus();
+            }
+            else if (command.length() == 1) { // command has 1 letter = it's a guess
+             hangman.guess(command);
+            }
 
         }
 
