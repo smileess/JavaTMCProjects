@@ -1,0 +1,6 @@
+
+BUILD FAILED
+C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-049.LastCharacter\nbproject\build-impl.xml:603: The following error occurred while executing this line:
+C:\Dev\Projects\MOOC\TMCProjects\mooc-2013-OOProgrammingWithJava-PART1\week3-049.LastCharacter\nbproject\build-impl.xml:245: Error running javac.exe compiler
+
+Total time: 1 second
