@@ -2,7 +2,6 @@
 **/**/.idea
 */*.xml
 */out
-*/
 */.idea
-sh.exe.stackdump
-lol
+/sh*exe.stackdump
+/lol
